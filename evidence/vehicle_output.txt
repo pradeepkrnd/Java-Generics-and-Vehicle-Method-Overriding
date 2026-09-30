@@ -1,0 +1,7 @@
+Trail SUV: forward with all-wheel traction.
+Trail SUV: reverse with rear camera assistance.
+Sprint sports car: forward with sport throttle response.
+Sprint sports car: reverse at controlled low speed.
+Eco Hybrid: forward using electric motor assistance.
+Eco Hybrid: reverse using electric drive.
+PASS: all six overridden calls matched expected behavior.

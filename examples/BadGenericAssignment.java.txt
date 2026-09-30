@@ -1,0 +1,6 @@
+public class BadGenericAssignment {
+    public static void main(String[] args) {
+        GenericBox<String> label = new GenericBox<>();
+        label.set(42); // Must be rejected: Integer is not String.
+    }
+}

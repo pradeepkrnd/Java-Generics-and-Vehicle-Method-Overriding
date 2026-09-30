@@ -1,0 +1,2 @@
+Fleet ready; vehicle count = 3
+EXPECTED: raw-type misuse caused ClassCastException.

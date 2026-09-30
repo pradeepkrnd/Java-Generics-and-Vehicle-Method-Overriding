@@ -1,0 +1,7 @@
+----------
+1. ERROR in /tmp/BadGenericAssignment.java (at line 4)
+	label.set(42); // Must be rejected: Integer is not String.
+	      ^^^
+The method set(String) in the type GenericBox<String> is not applicable for the arguments (int)
+----------
+1 problem (1 error)

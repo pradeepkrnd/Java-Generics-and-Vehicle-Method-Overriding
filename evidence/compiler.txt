@@ -1,0 +1,12 @@
+----------
+1. WARNING in /workspace/scratch/30923fbb8bc5/pradeepk/assignment6/src/GenericSafetyDemo.java (at line 11)
+	GenericBox raw = label;
+	^^^^^^^^^^
+GenericBox is a raw type. References to generic type GenericBox<T> should be parameterized
+----------
+2. WARNING in /workspace/scratch/30923fbb8bc5/pradeepk/assignment6/src/GenericSafetyDemo.java (at line 12)
+	raw.set(42);
+	^^^^^^^^^^^
+Type safety: The method set(Object) belongs to the raw type GenericBox. References to generic type GenericBox<T> should be parameterized
+----------
+2 problems (2 warnings)
